@@ -4,7 +4,7 @@ This app allows someone to paste or write a movie review, which is then analyzed
 
 To run this on your local machine, these steps should take place:
 
-- First you would clone the repository using: git clone [URL here]
+- First you would clone the repository using: git clone https://github.com/Nathaniel-Benton/Movie-Review-Sentiment-Analysis-App
 
 - Check to see if everything was copied over correctly using: git status
 
