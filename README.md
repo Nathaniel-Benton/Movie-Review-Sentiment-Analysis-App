@@ -13,3 +13,5 @@ To run this on your local machine, these steps should take place:
 - Run the app to launch it in a local window using: streamlit run app.py
 
 - This process will open the app and allow use in a browser window.
+
+- You shouldn't need to run the training file, but if needed, the data can be found here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
